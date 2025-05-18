@@ -1,0 +1,213 @@
+{
+  "groups": {
+    "#abd9e9": {
+      "label": "Ile de France",
+      "paths": [
+        "Dep_77",
+        "Dep_95",
+        "Dep_78",
+        "Dep_91",
+        "Dep_75",
+        "Dep_92",
+        "Dep_93",
+        "Dep_94"
+      ]
+    },
+    "#41ae76": {
+      "label": "Normady",
+      "paths": [
+        "Dep_76",
+        "Dep_27",
+        "Dep_61",
+        "Dep_14",
+        "Dep_50"
+      ]
+    },
+    "#238b45": {
+      "label": "Brittany",
+      "paths": [
+        "Dep_35",
+        "Dep_56",
+        "Dep_22",
+        "Dep_29",
+        "Dep_44"
+      ]
+    },
+    "#b4c8a8": {
+      "label": "Loire",
+      "paths": [
+        "Dep_58",
+        "Dep_18",
+        "Dep_36",
+        "Dep_37",
+        "Dep_28",
+        "Dep_41",
+        "Dep_45",
+        "Dep_53",
+        "Dep_72",
+        "Dep_49"
+      ]
+    },
+    "#c7e9b4": {
+      "label": "Auvergne",
+      "paths": [
+        "Dep_42",
+        "Dep_63",
+        "Dep_15",
+        "Dep_43",
+        "Dep_03"
+      ]
+    },
+    "#9ccb86": {
+      "label": "Charente",
+      "paths": [
+        "Dep_17",
+        "Dep_16",
+        "Dep_79",
+        "Dep_86",
+        "Dep_85",
+        "Dep_23",
+        "Dep_87"
+      ]
+    },
+    "#fed976": {
+      "label": "Aquitaine",
+      "paths": [
+        "Dep_12",
+        "Dep_81",
+        "Dep_33",
+        "Dep_47",
+        "Dep_82",
+        "Dep_46",
+        "Dep_24",
+        "Dep_19"
+      ]
+    },
+    "#feb24c": {
+      "label": "Gascogne",
+      "paths": [
+        "Dep_40",
+        "Dep_32",
+        "Dep_65",
+        "Dep_64",
+        "Dep_31"
+      ]
+    },
+    "#fd8d3c": {
+      "label": "Languedoc",
+      "paths": [
+        "Dep_66",
+        "Dep_11",
+        "Dep_34",
+        "Dep_30",
+        "Dep_48",
+        "Dep_07",
+        "Dep_09"
+      ]
+    },
+    "#e88471": {
+      "label": "Provence",
+      "paths": [
+        "Dep_13",
+        "Dep_84",
+        "Dep_04",
+        "Dep_06",
+        "Dep_83"
+      ]
+    },
+    "#cf597e": {
+      "label": "Dauphine",
+      "paths": [
+        "Dep_26",
+        "Dep_05",
+        "Dep_38"
+      ]
+    },
+    "#e31a1c": {
+      "label": "Savoy",
+      "paths": [
+        "Dep_74",
+        "Dep_73"
+      ]
+    },
+    "#aa1f4b": {
+      "label": "Burgundy",
+      "paths": [
+        "Dep_70",
+        "Dep_25",
+        "Dep_21",
+        "Dep_71",
+        "Dep_39",
+        "Dep_01",
+        "Dep_69"
+      ]
+    },
+    "#88419d": {
+      "label": "Alsace",
+      "paths": [
+        "Dep_67",
+        "Dep_68",
+        "Dep_90"
+      ]
+    },
+    "#225ea8": {
+      "label": "Lorraine",
+      "paths": [
+        "Dep_55",
+        "Dep_57",
+        "Dep_54",
+        "Dep_88",
+        "Dep_52"
+      ]
+    },
+    "#2b8cbe": {
+      "label": "Chamagne",
+      "paths": [
+        "Dep_08",
+        "Dep_51",
+        "Dep_10",
+        "Dep_89"
+      ]
+    },
+    "#4eb3d3": {
+      "label": "Hauts",
+      "paths": [
+        "Dep_60",
+        "Dep_80",
+        "Dep_02",
+        "Dep_59",
+        "Dep_62"
+      ]
+    }
+  },
+  "title": "",
+  "hidden": [],
+  "background": "#ffffff",
+  "borders": "#000",
+  "legendFont": "Helvetica",
+  "legendFontColor": "#000",
+  "legendBorderColor": "#00000000",
+  "legendBgColor": "#00000000",
+  "legendWidth": 150,
+  "legendBoxShape": "square",
+  "areBordersShown": true,
+  "defaultColor": "#d1dbdd",
+  "labelsColor": "#6a0707",
+  "labelsFont": "Arial",
+  "strokeWidth": "medium",
+  "areLabelsShown": false,
+  "uncoloredScriptColor": "#ffff33",
+  "zoomLevel": "1.00",
+  "zoomX": "0.00",
+  "zoomY": "0.00",
+  "v6": true,
+  "page": "france-departments",
+  "areStateBordersShown": true,
+  "legendPosition": "top_left",
+  "legendSize": "medium",
+  "legendTranslateX": "0.00",
+  "legendStatus": "show",
+  "scalingPatterns": true,
+  "legendRowsSameColor": true,
+  "legendColumnCount": 1
+}
